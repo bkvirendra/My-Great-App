@@ -22,6 +22,6 @@ And finally add your Redirect URI in the "index.php" as show in the gist
 If you have any concerns or issues you can send a Pull Request on [Github][]
 
   [Demo]: http://teckzone.in/myfbapps/mygreatapp/
-  [Download]: #
+  [Download]: https://github.com/bkvirendra/My-Great-App/zipball/master
   [here]: https://developers.facebook.com/apps
   [Github]: https://github.com/bkvirendra/My-Great-App
